@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on Blazor projects
 - 📫 How to reach me ...
-   lazaromoses77@gmail.com 
+   lazaromoses77@gmail.com <br/>
    Reach my YouTube Channel 
    https://www.youtube.com/channel/UCGRjLHJceElg3vee9gWMWVw
 
