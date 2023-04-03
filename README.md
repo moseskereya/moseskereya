@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Moses
-- 👀 I’m interested in C# & JavaScript
+- 👀 I’m interested in .NET & JavaScript
 - 🌱 I’m currently learning MERN-STACK technologies
 - 💞️ I’m looking to collaborate on Blazor projects 
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moseskereya)](https://github.com/moseskereya/github-readme-stats)
