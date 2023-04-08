@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning MERN-STACK technologies
 - 💞️ I’m looking to collaborate on Blazor projects 
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moseskereya)](https://github.com/moseskereya/github-readme-stats)
-- ![](https://komarev.com/ghpvc/?moseskereya=moseskereya)
+- ![](https://komarev.com/ghpvc/?username=moseskereya)
 - 📫 How to reach me ...
    lazaromoses77@gmail.com <br/>
    Reach my YouTube Channel 
